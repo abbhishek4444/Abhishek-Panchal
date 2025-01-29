@@ -2,7 +2,7 @@
 ## Hi there! 👋 I'm Abhishek Panchal
 🚀 Software developer | ML & AI enthusiast | C/C++/C# | .NET & Embedded Systems 
 
-💡 Passionate about building scalable applications and real-time embedded solutions  
+💡 Passionate about building scalable applications , embedded, machine learning and aritficial intelligence based solutions 
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/abhishek-panchal-9286191ab/) | [Email](mailto:abbhishek4444@gmail.com)
 
 ### 📊 GitHub Stats:
